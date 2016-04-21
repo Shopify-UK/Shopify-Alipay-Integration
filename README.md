@@ -2,6 +2,9 @@
 Help Shopify UK Merchants Add Alipay Payment Gateway
 Shopify UK Merchants Can Visit [Shopify UK Alipay Integration](http://www.shopifychina.com/shopify-uk.html).
 
+###Create a Shopify Store
+Visit [Shopify](http://www.shopify.com/?ref=erp-boost)
+
 ###Who is providing Shopify UK Merchants Alipay Integration?
 1. SHOPIFY UK PERFORMANCE
 Speed up your Shopify UK website's js and css,Image Tuning, Let your customer in china hard to find difference where they locates.
